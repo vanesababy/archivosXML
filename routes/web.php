@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index');
+    return redirect(route('index'));
 });
 Route::post('/xml/upload', [xmlController::class, 'upload'])->name('xml.upload');
 Route::get('index', [xmlController::class, 'index'])->name('index');

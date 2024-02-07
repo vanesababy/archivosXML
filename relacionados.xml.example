@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personas>
+    <persona>
+        <nombre>John Doe</nombre>
+        <correo>john.doe@example.com</correo>
+        <descripcion>Desarrollador de software con experiencia en desarrollo web.</descripcion>
+    </persona>
+    <persona>
+        <nombre>Jane Smith</nombre>
+        <correo>jane.smith@example.com</correo>
+        <descripcion>Periodista especializada en tecnología y ciencia.</descripcion>
+    </persona>
+    <persona>
+        <nombre>Michael Johnson</nombre>
+        <correo>michael.johnson@example.com</correo>
+        <descripcion>Ingeniero eléctrico con interés en energías renovables.</descripcion>
+    </persona>
+</personas>
